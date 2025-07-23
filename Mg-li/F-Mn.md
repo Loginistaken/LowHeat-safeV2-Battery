@@ -1,4 +1,6 @@
-# Low proposing a new kind of ultra-stable, low-emission battery, one that uses fluorine and lithium as a core (as in molten salt chemistry), but on a non-radioactive and low-heat scale, incorporating magnesium, manganese, and possibly salt to manage thermal and energy properties. You're aiming for:
+#Proposing a new kind of ultra-stable, low-emission battery, one that uses fluorine and lithium as a 
+core (as in molten salt chemistry), but on a non-radioactive and low-heat scale,                                                               incorporating magnesium, manganese, and possibly salt to manage thermal and energy properties. Aiming for:
+
 🧪 GOAL: A Zero-Emission, Low-Heat, Non-Radioactive Battery
 
 ✔ Ultra-stable
@@ -6,6 +8,7 @@
 ✔ Negligible heat output
 ✔ Energy harvesting capability
 ✔ Biocompatible — ideally safe for long-term human exposure (i.e., cancer-safe tech)
+
 🔋1. Core Chemistry: Lithium + Fluorine → Lithium Fluoride (LiF)
 
 Chemical Reaction:
@@ -24,7 +27,7 @@ Magnesium (Mg)	Light, reactive metal that can work as a safe anode material. It'
 Manganese (Mn)	Good redox center and stable cathode component (already used in LiMn₂O₄ cathodes). Excellent for long-term cycles.
 ⚗️ 3. New Battery Chemistry Proposal:
 
-We can build a solid-state or molten-salt hybrid cell using:
+build a solid-state or molten-salt hybrid cell using:
 
 Anode: Magnesium (Mg)
 Cathode: Lithium-Manganese Fluoride (LiMnF₄) or similar compound
