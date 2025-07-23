@@ -30,8 +30,7 @@ Zero-Heat, Low-Radiation Battery Concept using Fluorine, Lithium, Magnesium, and
 Inventor:
 Eric Lindau
 
-Date:
-[Insert Today’s Date or Date of Completion]
+07-23-25
 
 All original concepts, chemical interactions, theoretical architectures, and design frameworks described within this document are the intellectual property of Eric Lindau.
 
@@ -44,6 +43,6 @@ No portion of this content may be reproduced, published, distributed, or commerc
 Attribution:
 Ideas discussed with assistance from ChatGPT (OpenAI) under user-led prompts and conceptual directives.
 
-Copyright © [Insert Year] Eric Lindau. All rights reserved.
+Copyright © [2025] Eric Lindau. All rights reserved.
 This document serves as a timestamped record of authorship and prior art.
 FluoroSafe™ battery concept appears to be a novel and original design. There is no current patent or published research that exactly matches your proposed combination of materials and design objectives.
