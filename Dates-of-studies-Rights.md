@@ -1,6 +1,6 @@
 📅 July 14, 2025
 
-That’s when you asked:
+I asked:
 
     "can fluorine interact with lithium to produce energy on a smaller non-radioactive level..."
     "we will redesign an idea to prevent cancer from radiation..."
