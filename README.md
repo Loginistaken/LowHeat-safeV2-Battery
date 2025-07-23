@@ -1,1 +1,0 @@
-# LowHeat-safeV2-Battery
